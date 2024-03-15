@@ -1,5 +1,5 @@
 -- Criação do banco de dados
-CREATE DATABASE NOTES;
+CREATE DATABASE NOTES CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- Seleciona o banco de dados criado
 USE NOTES;

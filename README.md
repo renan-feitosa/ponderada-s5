@@ -6,6 +6,8 @@
 
 Neste readme, está descrito o processo de instalação, criação e configuração de uma aplicação básica em PHP para adição e listagem de anotações armazenados em um banco de dados MariaDB na infraestrutura da AWS. A aplicação PHP será implantada em uma instância EC2, enquanto o banco de dados MariaDB será hospedado em um serviço RDS.
 
+[LINK DO VÍDEO](https://youtu.be/42hnhP1wviM)
+
 ### 📁 Estrutura de pastas
 
 |--> imagens<br>
